@@ -1,0 +1,9 @@
+aiohttp==3.10.9
+art==6.3
+beautifulsoup4==4.12.3
+colorama==0.4.6
+fake_useragent==1.5.1
+lxml==5.3.0
+pandas==2.2.3
+tenacity==9.0.0
+tqdm==4.66.5
